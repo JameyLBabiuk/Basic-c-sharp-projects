@@ -1,0 +1,51 @@
+``c#
+using System;
+
+namespace ConsoleApp
+{
+    // Create a class
+    publicclass MathOperations
+    {
+        // Create a void method that takes two integers as parameters
+        public void PerformMathOperation(int num1, int num2)
+        {
+            // Do a math operation on the first integer
+            int result =class MathClass
+    {
+        // Create a void method that takes two integers as parameters
+        public void DoMath(int num1, int num2)
+        {
+            // Have the method do a math operation on the first integer
+            int result = num1 * 5;
+            // Display the second integer to the screen
+            Console.WriteLine($"The second number is: {num2}");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Instantiate the class
+            MathClass math = new MathClass();
+
+            // Call the method in the class, passing in two numbers
+            math.DoMath(2, 8);
+
+            // Call the method in the class, specifying the parameters by name
+            math.DoMath(num1: 3, num2: 10);
+
+            // Wait for user input before closing the console window
+            Console.ReadLine();
+        }
+    }
+}
+```
+
+Here's what's happening in the code:
+
+- We create a new class called `MathClass`. Inside this class, we define a method called `DoMath` that takes two integers as parameters (`num1` and `num2`).
+- Inside the `DoMath` method, we perform a basic math operation on the first integer (`num1`) and then output the second integer (`num2`) to the console using `Console.WriteLine`.
+- In the `Main` method of the console app, we instantiate an instance of `MathClass` and store it in a variable called `math`.
+- We then call the `DoMath` method twice, once with the arguments `(2, 8)` and once with the named arguments `(num1: 3, num2: 10)`. This will output messages to the console for each call.
+- Finally, we use `Console.ReadLine()` to keep the console window open until the user hits a key. This is just so that we can see the output before the window closes. 
