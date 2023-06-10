@@ -1,0 +1,15 @@
+C:\Users\Masai\source\repos\AssignmentPart5\bin\Debug\net6.0\AssignmentPart5.exe
+C:\Users\Masai\source\repos\AssignmentPart5\bin\Debug\net6.0\AssignmentPart5.deps.json
+C:\Users\Masai\source\repos\AssignmentPart5\bin\Debug\net6.0\AssignmentPart5.runtimeconfig.json
+C:\Users\Masai\source\repos\AssignmentPart5\bin\Debug\net6.0\AssignmentPart5.dll
+C:\Users\Masai\source\repos\AssignmentPart5\bin\Debug\net6.0\AssignmentPart5.pdb
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\AssignmentPart5.csproj.AssemblyReference.cache
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\AssignmentPart5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\AssignmentPart5.AssemblyInfoInputs.cache
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\AssignmentPart5.AssemblyInfo.cs
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\AssignmentPart5.csproj.CoreCompileInputs.cache
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\AssignmentPart5.dll
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\refint\AssignmentPart5.dll
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\AssignmentPart5.pdb
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\AssignmentPart5.genruntimeconfig.cache
+C:\Users\Masai\source\repos\AssignmentPart5\obj\Debug\net6.0\ref\AssignmentPart5.dll
