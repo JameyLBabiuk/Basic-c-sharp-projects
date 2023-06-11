@@ -1,0 +1,15 @@
+/home/kibsoft/C-Sharp/IQuittable/bin/Debug/net6.0/IQuittable
+/home/kibsoft/C-Sharp/IQuittable/bin/Debug/net6.0/IQuittable.deps.json
+/home/kibsoft/C-Sharp/IQuittable/bin/Debug/net6.0/IQuittable.runtimeconfig.json
+/home/kibsoft/C-Sharp/IQuittable/bin/Debug/net6.0/IQuittable.dll
+/home/kibsoft/C-Sharp/IQuittable/bin/Debug/net6.0/ref/IQuittable.dll
+/home/kibsoft/C-Sharp/IQuittable/bin/Debug/net6.0/IQuittable.pdb
+/home/kibsoft/C-Sharp/IQuittable/obj/Debug/net6.0/IQuittable.csproj.AssemblyReference.cache
+/home/kibsoft/C-Sharp/IQuittable/obj/Debug/net6.0/IQuittable.GeneratedMSBuildEditorConfig.editorconfig
+/home/kibsoft/C-Sharp/IQuittable/obj/Debug/net6.0/IQuittable.AssemblyInfoInputs.cache
+/home/kibsoft/C-Sharp/IQuittable/obj/Debug/net6.0/IQuittable.AssemblyInfo.cs
+/home/kibsoft/C-Sharp/IQuittable/obj/Debug/net6.0/IQuittable.csproj.CoreCompileInputs.cache
+/home/kibsoft/C-Sharp/IQuittable/obj/Debug/net6.0/IQuittable.dll
+/home/kibsoft/C-Sharp/IQuittable/obj/Debug/net6.0/ref/IQuittable.dll
+/home/kibsoft/C-Sharp/IQuittable/obj/Debug/net6.0/IQuittable.pdb
+/home/kibsoft/C-Sharp/IQuittable/obj/Debug/net6.0/IQuittable.genruntimeconfig.cache
