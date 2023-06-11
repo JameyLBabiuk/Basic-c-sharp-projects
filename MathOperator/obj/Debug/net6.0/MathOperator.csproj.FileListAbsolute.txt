@@ -1,0 +1,15 @@
+/home/kibsoft/C-Sharp/MathOperator/bin/Debug/net6.0/MathOperator
+/home/kibsoft/C-Sharp/MathOperator/bin/Debug/net6.0/MathOperator.deps.json
+/home/kibsoft/C-Sharp/MathOperator/bin/Debug/net6.0/MathOperator.runtimeconfig.json
+/home/kibsoft/C-Sharp/MathOperator/bin/Debug/net6.0/MathOperator.dll
+/home/kibsoft/C-Sharp/MathOperator/bin/Debug/net6.0/ref/MathOperator.dll
+/home/kibsoft/C-Sharp/MathOperator/bin/Debug/net6.0/MathOperator.pdb
+/home/kibsoft/C-Sharp/MathOperator/obj/Debug/net6.0/MathOperator.csproj.AssemblyReference.cache
+/home/kibsoft/C-Sharp/MathOperator/obj/Debug/net6.0/MathOperator.GeneratedMSBuildEditorConfig.editorconfig
+/home/kibsoft/C-Sharp/MathOperator/obj/Debug/net6.0/MathOperator.AssemblyInfoInputs.cache
+/home/kibsoft/C-Sharp/MathOperator/obj/Debug/net6.0/MathOperator.AssemblyInfo.cs
+/home/kibsoft/C-Sharp/MathOperator/obj/Debug/net6.0/MathOperator.csproj.CoreCompileInputs.cache
+/home/kibsoft/C-Sharp/MathOperator/obj/Debug/net6.0/MathOperator.dll
+/home/kibsoft/C-Sharp/MathOperator/obj/Debug/net6.0/ref/MathOperator.dll
+/home/kibsoft/C-Sharp/MathOperator/obj/Debug/net6.0/MathOperator.pdb
+/home/kibsoft/C-Sharp/MathOperator/obj/Debug/net6.0/MathOperator.genruntimeconfig.cache
