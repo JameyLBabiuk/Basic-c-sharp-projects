@@ -10,7 +10,7 @@ namespace MathOperator
         {
             // Perform calculation using the first integer.
             int fNumberResult =num1 * 2;
-            Console.WriteLine($"The result of doubling the first integer is: {result}");
+            Console.WriteLine($"The result of doubling the first integer is: {fNumberResult}");
         }
         // Make a void method with two integers as its arguments.
         public void DoMath(int num1, int num2)

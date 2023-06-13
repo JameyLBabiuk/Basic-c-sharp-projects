@@ -1,0 +1,15 @@
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/bin/Debug/net6.0/OperatorsAssignment
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/bin/Debug/net6.0/OperatorsAssignment.deps.json
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/bin/Debug/net6.0/OperatorsAssignment.runtimeconfig.json
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/bin/Debug/net6.0/OperatorsAssignment.dll
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/bin/Debug/net6.0/ref/OperatorsAssignment.dll
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/bin/Debug/net6.0/OperatorsAssignment.pdb
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/obj/Debug/net6.0/OperatorsAssignment.csproj.AssemblyReference.cache
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/obj/Debug/net6.0/OperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/obj/Debug/net6.0/OperatorsAssignment.AssemblyInfoInputs.cache
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/obj/Debug/net6.0/OperatorsAssignment.AssemblyInfo.cs
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/obj/Debug/net6.0/OperatorsAssignment.csproj.CoreCompileInputs.cache
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/obj/Debug/net6.0/OperatorsAssignment.dll
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/obj/Debug/net6.0/ref/OperatorsAssignment.dll
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/obj/Debug/net6.0/OperatorsAssignment.pdb
+/home/kibsoft/Documents/Babiuk/Basic-c-sharp-projects/OperatorsAssignment/obj/Debug/net6.0/OperatorsAssignment.genruntimeconfig.cache
