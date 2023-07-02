@@ -10,16 +10,13 @@ namespace CarInsurance.Controllers
 {
     public class InsureeController : Controller
     {
-        private CarInsuranceContext db = new CarInsuranceContext();
+        private CarInsuranceContext db = new CarInsuranceContext();  
 
         // GET: Insuree
-        public ActionResult Index() => View(db.Insurees.ToList());
-
-        private ActionResult View(object value)
+        public ActionResult Index()
         {
-            throw new NotImplementedException();
+            return View(db.Insurees.ToList());
         }
-
         // GET: Insuree/Details/5
         public ActionResult Details(int? id)
         {
