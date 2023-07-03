@@ -2,7 +2,7 @@ C# is an object orientated programming language that will be used to create virt
 
 ## Projects I have built using C# & .NET Framework
 - [Car Insurance](https://github.com/JameyLBabiuk/Basic-c-sharp-projects/tree/main/MVC%20Entity%20Framework%20Assignment%20Part%204/CarInsurance)
-- IQuittable
+- [IQuittable](https://github.com/JameyLBabiuk/Basic-c-sharp-projects/tree/main/IQuittable)
 
 # Car Insurance
 
