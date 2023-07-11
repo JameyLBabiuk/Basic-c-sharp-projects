@@ -17,6 +17,8 @@ IQuittable illustrates the concept of an Interface and demonstrates how Polymorp
 
 # Blackjack Game
 
+The Blackjack Project is a console application seeking to achieve a number of objects. First and most vital is code flow by using Visual Studio’s debugger to go step-by-step through the entire program and submit findings as guided.
+
 # Operators
 In this project, I depict  how overloaded operators function by comparing if employees are equal or not. These are the overloaded "!=" operator, and Overloaded "==" operator. Additionally, I also illustrated how the common Math Operators function. For example, Multiplication.
 
